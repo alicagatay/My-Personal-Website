@@ -1,0 +1,59 @@
+.page-header {
+    background-color: #1D1F22;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active{
+    color: #EFF3F1;
+    font-size: 48pt;
+    text-decoration: none;
+    font-family: "Open Sans";
+    text-align: center
+}
+
+.aboutMe h2, .aboutMe h2 a, .aboutMe h2 a:visited, .aboutMe h2 a:active{
+    color: #EFF3F1;
+    font-size: 28pt;
+    text-decoration: none;
+    font-family: "Open Sans";
+    text-align: center
+}
+
+.latestBlogPosts h2, .latestBlogPosts h2 a, .latestBlogPosts h2 a:visited, .latestBlogPosts h2 a:active{
+    color: #EFF3F1;
+    font-size: 28pt;
+    text-decoration: none;
+    font-family: "Open Sans";
+    text-align: center
+}
+
+.mySkills h2, .mySkills h2 a, .mySkills h2 a:visited, .mySkills h2 a:active{
+    color: #EFF3F1;
+    font-size: 28pt;
+    text-decoration: none;
+    font-family: "Open Sans";
+    text-align: center
+}
+
+.myResume h2, .myResume h2 a, .myResume h2 a:visited, .myResume h2 a:active{
+    color: #EFF3F1;
+    font-size: 28pt;
+    text-decoration: none;
+    font-family: "Open Sans";
+    text-align: center
+}
+
+.Contact h2, .Contact h2 a, .Contact h2 a:visited, .Contact h2 a:active{
+    color: #EFF3F1;
+    font-size: 28pt;
+    text-decoration: none;
+    font-family: "Open Sans";
+    text-align: center
+}
+
+
+
+body {
+  background-color: #1D1F22;
+}
