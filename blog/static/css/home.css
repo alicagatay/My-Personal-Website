@@ -36,6 +36,16 @@
     text-align: center
 }
 
+.myProjects h2, .myProjects h2 a, .myProjects h2 a:visited, .myProjects h2 a:active{
+    color: #EFF3F1;
+    font-size: 28pt;
+    text-decoration: none;
+    font-family: "Open Sans";
+    text-align: center
+}
+
+
+
 .myResume h2, .myResume h2 a, .myResume h2 a:visited, .myResume h2 a:active{
     color: #EFF3F1;
     font-size: 28pt;
