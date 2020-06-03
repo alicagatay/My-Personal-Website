@@ -16,3 +16,6 @@ def post_detail(request, pk):
 
 def homepage(request):
 	return render(request, 'blog/home.html')
+
+def aboutpage(request):
+	return render(request, 'blog/about.html')

@@ -1,0 +1,11 @@
+.about p, .about p a, .about p a:visited, .about p a:active{
+    color: #EFF3F1;
+    font-size: 15pt;
+    text-decoration: none;
+}
+
+body {
+  background-color: #1D1F22;
+  font-family: "Open Sans";
+  text-align: center;
+}
