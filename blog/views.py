@@ -19,3 +19,6 @@ def homepage(request):
 
 def aboutpage(request):
 	return render(request, 'blog/about.html')
+
+def contactpage(request):
+	return render(request, 'blog/contact.html')
