@@ -1,6 +1,6 @@
 .about p, .about p a, .about p a:visited, .about p a:active{
     color: #EFF3F1;
-    font-size: 15pt;
+    font-size: 20pt;
     text-decoration: none;
 }
 
@@ -8,6 +8,7 @@ body {
   backdrop-filter: blur(3px);
   font-family: "Open Sans";
   text-align: center;
+  background-color: rgba(0,0,0,0.6);
 }
 
 html { 
