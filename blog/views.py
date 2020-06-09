@@ -25,3 +25,6 @@ def contactpage(request):
 
 def skillspage(request):
     return render(request, 'blog/skills.html')
+
+def projectspage(request):
+    return render(request, 'blog/projects.html')
