@@ -18,7 +18,7 @@ body {
     color: #EFF3F1;
     font-size: 90pt;
     text-decoration: none;
-    padding: 400px 20px 0px 40px;
+    padding: 350px 20px 0px 40px;
 }
 
 .myName h2, .myName h2 a, .myName h2 a:visited, .myName h2 a:active{
@@ -28,7 +28,16 @@ body {
     padding: 20px 20px 0px 40px;
 }
 
+
 .myName p, .myName p a, .myName p a:visited, .myName p a:active{
+    color: #EFF3F1;
+    font-size: 15pt;
+    text-decoration: none;
+    padding: 0px 20px 0px 40px;
+}
+
+
+.myName h3, .myName h3 a, .myName h3 a:visited, .myName h3 a:active{
     color: #EFF3F1;
     font-size: 30pt;
     text-decoration: none;
