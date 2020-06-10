@@ -4,6 +4,12 @@
     text-decoration: none;
 }
 
+.contact p a:hover{
+  text-decoration: none;
+  color: #0373fc;
+  font-size: 16pt;
+}
+
 body {
   backdrop-filter: blur(3px);
   padding: 180px 20px 0px 40px;

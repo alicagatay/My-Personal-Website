@@ -4,6 +4,12 @@
     text-decoration: none;
 }
 
+.about p a:hover{
+  color: #0373fc;
+  font-size: 20pt;
+  text-decoration: none;
+}
+
 body {
   backdrop-filter: blur(3px);
   font-family: "Open Sans";
