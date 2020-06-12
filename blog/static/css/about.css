@@ -2,6 +2,7 @@
     color: #EFF3F1;
     font-size: 20pt;
     text-decoration: none;
+
 }
 
 .about p a:hover{
@@ -11,7 +12,6 @@
 }
 
 body {
-  backdrop-filter: blur(3px);
   font-family: "Open Sans";
   text-align: center;
   background-color: rgba(0,0,0,0.6);
