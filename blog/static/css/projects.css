@@ -11,15 +11,15 @@ body {
     background-size: cover;
   }
   
-  p,  p a,  p a:visited,  p a:active, p a:link{
+  p{
       text-decoration: none;
       color: #EFF3F1;
       font-size: 15pt;
   }
 
-  p a:hover{
+  p a,  p a:visited,  p a:active, p a:link{
     text-decoration: none;
-    color: #0373fc;
+    color: #2b8aff;
     font-size: 15pt;
   }
   

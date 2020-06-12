@@ -1,12 +1,12 @@
-.about p, .about p a, .about p a:visited, .about p a:active{
+.about p{
     color: #EFF3F1;
     font-size: 20pt;
     text-decoration: none;
 
 }
 
-.about p a:hover{
-  color: #0373fc;
+.about p a, .about p a:visited, .about p a:active{
+  color: #2b8aff;
   font-size: 20pt;
   text-decoration: none;
 }
