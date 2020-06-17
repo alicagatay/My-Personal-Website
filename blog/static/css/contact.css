@@ -1,3 +1,10 @@
+.return p, .return p a, .return p a:visited, .return p a:active{
+  color: #EFF3F1;
+  font-size: 15pt;
+  text-decoration: underline;
+  text-align: center;
+}
+
 .contact p, .contact p a, .contact p a:visited, .contact p a:active{
     color: #EFF3F1;
     font-size: 16pt;

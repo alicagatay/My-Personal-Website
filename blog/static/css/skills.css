@@ -34,3 +34,17 @@ li{
   margin: 30px 0;
 }
 
+.return p, .return p a, .return p a:visited, .return p a:active{
+  color: #EFF3F1;
+  font-size: 15pt;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.top p, .top p a, .top p a:visited, .top p a:active{
+  color: #EFF3F1;
+  font-size: 60pt;
+  text-decoration: none;
+  text-align: center;
+}
+

@@ -11,6 +11,13 @@
   text-decoration: none;
 }
 
+.return p, .return p a, .return p a:visited, .return p a:active{
+  color: #EFF3F1;
+  font-size: 15pt;
+  text-decoration: underline;
+  text-align: center;
+}
+
 body {
   font-family: "Open Sans";
   text-align: center;
