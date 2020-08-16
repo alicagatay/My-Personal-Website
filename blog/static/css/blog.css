@@ -1,9 +1,10 @@
-.page-header {
-    margin-top: 0;
-    padding: 20px 20px 20px 40px;
+.page-header h1, .page-header, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #EFF3F1;
+    font-size: 36pt;
+    text-decoration: none;
 }
 
-.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+.post h1, .post, .post h1 a, .post h1 a:visited, .post h1 a:active {
     color: #EFF3F1;
     font-size: 36pt;
     text-decoration: none;
@@ -11,31 +12,13 @@
 
 .content {
     color: #EFF3F1;
-}
-
-h1, h2, h3, h4 {
-
-    font-family: "Open Sans";
-}
-
-p {
-  font-family: "Open Sans";
-  font-size: 16pt;
+    width: fit-content;
 }
 
 .date {
     color: #EFF3F1;
     font-family: "Open Sans";
     font-size: 25;
-}
-
-.save {
-    float: right;
-}
-
-.post-form textarea, .post-form input {
-    width: 100%;
-    background-color: rgba(0,0,0,0.5);
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
@@ -51,7 +34,7 @@ p {
 
 .post p {
     color: #EFF3F1;
-    font-size: 30;
+    font-size: 25;
 }
 
 .post h2 a, .post h2 a:visited, .post h2 {
