@@ -22,9 +22,3 @@ def aboutpage(request):
 
 def contactpage(request):
 	return render(request, 'blog/contact.html')
-
-def skillspage(request):
-    return render(request, 'blog/skills.html')
-
-def projectspage(request):
-    return render(request, 'blog/projects.html')

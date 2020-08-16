@@ -2,6 +2,7 @@
     color: #EFF3F1;
     font-size: 20pt;
     text-decoration: none;
+    text-align: center;
 
 }
 
@@ -9,6 +10,7 @@
   color: #2b8aff;
   font-size: 20pt;
   text-decoration: none;
+  text-align: center;
 }
 
 .return p, .return p a, .return p a:visited, .return p a:active{
@@ -18,11 +20,88 @@
   text-align: center;
 }
 
-body {
-  font-family: "Open Sans";
-  text-align: center;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 
 html { 
   background-color: #1e1f1f;
+}
+
+
+
+
+.skills p, .skills p a, .skills p a:visited, .skills p a:active{
+  color: #EFF3F1;
+  font-size: 15pt;
+  text-decoration: none;
+}
+
+.skills h1, .skills h1 a, .skills h1 a:visited, .skills h1 a:active{
+  color: #EFF3F1;
+  font-size: 50pt;
+  text-decoration: none;
+}
+
+.skills h2, .skills h2 a, .skills h2 a:visited, .skills h2 a:active{
+  color: #EFF3F1;
+  font-size: 30pt;
+  text-decoration: none;
+}
+
+.skills ol, .skills ol a, .skills ol a:visited, .skills ol a:active{
+  color: #EFF3F1;
+  font-size: 20pt;
+  text-decoration: none;
+  padding: 0px 20px 0px 80px;
+}
+
+.skills li{
+margin: 20px 0;
+}
+
+
+
+
+
+
+
+.projects p{
+  text-decoration: none;
+  color: #EFF3F1;
+  font-size: 15pt;
+}
+
+.projects p a, .projects p a:visited, .projects p a:active, .projects p a:link{
+text-decoration: none;
+color: #2b8aff;
+font-size: 15pt;
+}
+
+.projects h1, .projects h1 a, .projects h1 a:visited, .projects h1 a:active{
+  color: #EFF3F1;
+  font-size: 50pt;
+  text-decoration: none;
+}
+
+.projects ol, .projects ol a{
+  color: #EFF3F1;
+  font-size: 30pt;
+  text-decoration: none;
+  padding: 0px 20px 0px 80px;
+}
+
+
+.projects li{
+margin: 50px 0;
+}
+
+.top p, .top p a, .top p a:visited, .top p a:active{
+  color: #EFF3F1;
+  font-size: 60pt;
+  text-decoration: none;
+  text-align: center;
 }
