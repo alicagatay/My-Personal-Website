@@ -106,3 +106,48 @@ margin: 50px 0;
   text-decoration: none;
   text-align: center;
 }
+
+
+
+.training p{
+  color: #EFF3F1;
+  font-size: 15pt;
+  text-decoration: none;
+}
+
+.training p a, .training p a:visited, .training p a:active, .training p a:link{
+  text-decoration: none;
+  color: #2b8aff;
+  font-size: 15pt;
+  }
+
+.training h1, .training h1 a, .training h1 a:visited, .training h1 a:active{
+  color: #EFF3F1;
+  font-size: 50pt;
+  text-decoration: none;
+}
+
+
+.training h2, .training h2 a, .training h2 a:visited, .training h2 a:active{
+  color: #EFF3F1;
+  font-size: 30pt;
+  text-decoration: none;
+}
+
+.training ol{
+  color: #EFF3F1;
+  font-size: 20pt;
+  text-decoration: none;
+  padding: 0px 20px 0px 80px;
+}
+
+.training ol a, .training ol a:visited, .training ol a:active{
+  color: #2b8aff;
+  font-size: 20pt;
+  text-decoration: none;
+  padding: 0px 20px 0px 80px;
+}
+
+.training li{
+margin: 20px 0;
+}
