@@ -10,6 +10,12 @@
     text-decoration: none;
 }
 
+.post h2 a:hover {
+    color: #EFF3F1;
+    font-size: 55;
+    text-decoration: underline;
+}
+
 .content {
     color: #EFF3F1;
     width: fit-content;
@@ -17,7 +23,6 @@
 
 .date {
     color: #EFF3F1;
-    font-family: "Open Sans";
     font-size: 25;
 }
 
@@ -39,6 +44,7 @@
 
 .post h2 a, .post h2 a:visited, .post h2 {
     color: #EFF3F1;
+    text-decoration: none;
     font-size: 55;
 }
 
@@ -53,9 +59,10 @@
     color: #EFF3F1;
     font-size: 60pt;
     text-decoration: none;
-    text-align: end;
+    text-align: center;
   }
 
 body {
     background-color: #232323;
+    font-family: 'Roboto Mono', monospace;
 }
