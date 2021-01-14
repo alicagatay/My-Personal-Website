@@ -1,17 +1,23 @@
-.return p, .return p a, .return p a:visited, .return p a:active{
-  color: #EFF3F1;
+.return p,
+.return p a,
+.return p a:visited,
+.return p a:active {
+  color: #eff3f1;
   font-size: 30pt;
   text-decoration: underline;
   text-align: center;
 }
 
-.contact p, .contact p a, .contact p a:visited, .contact p a:active{
-    color: #EFF3F1;
-    font-size: 30pt;
-    text-decoration: none;
+.contact p,
+.contact p a,
+.contact p a:visited,
+.contact p a:active {
+  color: #eff3f1;
+  font-size: 30pt;
+  text-decoration: none;
 }
 
-.contact p a:hover{
+.contact p a:hover {
   text-decoration: none;
   color: #0373fc;
   font-size: 30pt;
@@ -23,7 +29,7 @@ body {
   text-align: center;
 }
 
-html { 
-  background-color: #232323;
-  font-family: 'Roboto Mono', monospace;
+html {
+  background-color: #000000;
+  font-family: "Roboto Mono", monospace;
 }

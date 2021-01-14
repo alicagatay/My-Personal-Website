@@ -1,20 +1,24 @@
-.about p{
-    color: #EFF3F1;
-    font-size: 20pt;
-    text-decoration: none;
-    text-align: center;
-
+.about p {
+  color: #eff3f1;
+  font-size: 20pt;
+  text-decoration: none;
+  text-align: center;
 }
 
-.about p a, .about p a:visited, .about p a:active{
+.about p a,
+.about p a:visited,
+.about p a:active {
   color: #2b8aff;
   font-size: 20pt;
   text-decoration: none;
   text-align: center;
 }
 
-.return p, .return p a, .return p a:visited, .return p a:active{
-  color: #EFF3F1;
+.return p,
+.return p a,
+.return p a:visited,
+.return p a:active {
+  color: #eff3f1;
   font-size: 15pt;
   text-decoration: underline;
   text-align: center;
@@ -26,128 +30,147 @@ img {
   margin-right: auto;
 }
 
-
-html { 
-  background-color: #232323;
-  font-family: 'Roboto Mono', monospace;
+html {
+  background-color: #000000;
+  font-family: "Roboto Mono", monospace;
 }
 
-
-
-
-.skills p, .skills p a, .skills p a:visited, .skills p a:active{
-  color: #EFF3F1;
+.skills p,
+.skills p a,
+.skills p a:visited,
+.skills p a:active {
+  color: #eff3f1;
   font-size: 15pt;
   text-decoration: none;
 }
 
-.skills h1, .skills h1 a, .skills h1 a:visited, .skills h1 a:active{
-  color: #EFF3F1;
+.skills h1,
+.skills h1 a,
+.skills h1 a:visited,
+.skills h1 a:active {
+  color: #eff3f1;
   font-size: 50pt;
   text-decoration: none;
 }
 
-.skills h2, .skills h2 a, .skills h2 a:visited, .skills h2 a:active{
-  color: #EFF3F1;
+.skills h2,
+.skills h2 a,
+.skills h2 a:visited,
+.skills h2 a:active {
+  color: #eff3f1;
   font-size: 30pt;
   text-decoration: none;
 }
 
-.skills ol, .skills ol a, .skills ol a:visited, .skills ol a:active{
-  color: #EFF3F1;
+.skills ol,
+.skills ol a,
+.skills ol a:visited,
+.skills ol a:active {
+  color: #eff3f1;
   font-size: 20pt;
   text-decoration: none;
   padding: 0px 20px 0px 80px;
 }
 
-.skills li{
-margin: 20px 0;
+.skills li {
+  margin: 20px 0;
 }
 
-
-
-
-
-
-
-.projects p{
+.projects p {
   text-decoration: none;
-  color: #EFF3F1;
+  color: #eff3f1;
   font-size: 15pt;
 }
 
-.projects p a, .projects p a:visited, .projects p a:active, .projects p a:link{
-text-decoration: none;
-color: #2b8aff;
-font-size: 15pt;
+.projects p a,
+.projects p a:visited,
+.projects p a:active,
+.projects p a:link {
+  text-decoration: none;
+  color: #2b8aff;
+  font-size: 15pt;
 }
 
-.projects h1, .projects h1 a, .projects h1 a:visited, .projects h1 a:active{
-  color: #EFF3F1;
+.projects h1,
+.projects h1 a,
+.projects h1 a:visited,
+.projects h1 a:active {
+  color: #eff3f1;
   font-size: 50pt;
   text-decoration: none;
 }
 
-.projects ol, .projects ol a{
-  color: #EFF3F1;
+.projects ol,
+.projects ol a {
+  color: #eff3f1;
   font-size: 30pt;
   text-decoration: none;
   padding: 0px 20px 0px 80px;
 }
 
-
-.projects li{
-margin: 50px 0;
+.projects li {
+  margin: 50px 0;
 }
 
-.top p, .top p a, .top p a:visited, .top p a:active{
-  color: #EFF3F1;
+.top p,
+.top p a,
+.top p a:visited,
+.top p a:active {
+  color: #eff3f1;
   font-size: 60pt;
   text-decoration: none;
   text-align: center;
 }
 
-
-
-.training p{
-  color: #EFF3F1;
+.training p {
+  color: #eff3f1;
   font-size: 15pt;
   text-decoration: none;
 }
 
-.training p a, .training p a:visited, .training p a:active, .training p a:link{
+.training p a,
+.training p a:visited,
+.training p a:active,
+.training p a:link {
   text-decoration: none;
   color: #2b8aff;
   font-size: 15pt;
-  }
+}
 
-.training h1, .training h1 a, .training h1 a:visited, .training h1 a:active{
-  color: #EFF3F1;
+.training h1,
+.training h1 a,
+.training h1 a:visited,
+.training h1 a:active {
+  color: #eff3f1;
   font-size: 50pt;
   text-decoration: none;
 }
 
-
-.training h2, .training h2 a, .training h2 a:visited, .training h2 a:active{
-  color: #EFF3F1;
+.training h2,
+.training h2 a,
+.training h2 a:visited,
+.training h2 a:active {
+  color: #eff3f1;
   font-size: 30pt;
   text-decoration: none;
 }
 
-.training ol{
-  color: #EFF3F1;
+.training ol {
+  color: #eff3f1;
   font-size: 20pt;
   text-decoration: none;
   padding: 0px 20px 0px 80px;
 }
 
-.training ol a, .training ol a:visited, .training ol a:active{
+.training ol a,
+.training ol a:visited,
+.training ol a:active {
   color: #2b8aff;
   font-size: 20pt;
   text-decoration: none;
   padding: 0px 20px 0px 80px;
 }
 
-.training li{
-margin: 20px 0;
+.training li {
+  margin: 20px 0;
 }

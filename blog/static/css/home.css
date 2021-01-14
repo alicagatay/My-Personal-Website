@@ -1,50 +1,55 @@
-html { 
-    background-color: #232323;
+html {
+  background-color: #000000;
 }
 
-
 body {
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
   text-align: center;
 }
 
-.myName h1, .myName h1 a, .myName h1 a:visited, .myName h1 a:active{
-    color: #EFF3F1;
-    font-size: 80pt;
-    text-decoration: none;
-    padding: 0px 20px 0px 40px;
+.myName h1,
+.myName h1 a,
+.myName h1 a:visited,
+.myName h1 a:active {
+  color: #eff3f1;
+  font-size: 80pt;
+  text-decoration: none;
+  padding: 0px 20px 0px 40px;
 }
 
-
-.myName p{
-    color: #EFF3F1;
-    font-size: 25pt;
-    font-style: italic;
-    padding: 0px 20px 0px 40px;
+.myName p {
+  color: #eff3f1;
+  font-size: 25pt;
+  font-style: italic;
+  padding: 0px 20px 0px 40px;
 }
 
-
-.aboutMe h2, .aboutMe h2 a, .aboutMe h2 a:visited, .aboutMe h2 a:active{
-    color: #EFF3F1;
-    font-size: 40pt;
-    text-decoration: none;
-    padding: 20px 20px 0px 40px;
-
-
+.aboutMe h2,
+.aboutMe h2 a,
+.aboutMe h2 a:visited,
+.aboutMe h2 a:active {
+  color: #eff3f1;
+  font-size: 40pt;
+  text-decoration: none;
+  padding: 20px 20px 0px 40px;
 }
 
-.latestBlogPosts h2, .latestBlogPosts h2 a, .latestBlogPosts h2 a:visited, .latestBlogPosts h2 a:active{
-    color: #EFF3F1;
-    font-size: 40pt;
-    text-decoration: none;
-    padding: 20px 20px 0px 40px;
+.latestBlogPosts h2,
+.latestBlogPosts h2 a,
+.latestBlogPosts h2 a:visited,
+.latestBlogPosts h2 a:active {
+  color: #eff3f1;
+  font-size: 40pt;
+  text-decoration: none;
+  padding: 20px 20px 0px 40px;
 }
 
-
-.Contact h2, .Contact h2 a, .Contact h2 a:visited, .Contact h2 a:active{
-    color: #EFF3F1;
-    font-size: 40pt;
-    text-decoration: none;
-    padding: 20px 20px 0px 40px;
-    
+.Contact h2,
+.Contact h2 a,
+.Contact h2 a:visited,
+.Contact h2 a:active {
+  color: #eff3f1;
+  font-size: 40pt;
+  text-decoration: none;
+  padding: 20px 20px 0px 40px;
 }
