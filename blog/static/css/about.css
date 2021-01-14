@@ -174,3 +174,56 @@ html {
 .training li {
   margin: 20px 0;
 }
+
+.workExperience p {
+  color: #eff3f1;
+  font-size: 15pt;
+  text-decoration: none;
+}
+
+.workExperience p a,
+.workExperience p a:visited,
+.workExperience p a:active,
+.workExperience p a:link {
+  text-decoration: none;
+  color: #2b8aff;
+  font-size: 15pt;
+}
+
+.workExperience h1,
+.workExperience h1 a,
+.workExperienceh1 a:visited,
+.workExperience h1 a:active {
+  color: #eff3f1;
+  font-size: 50pt;
+  text-decoration: none;
+}
+
+.workExperience h2,
+.workExperience h2 a,
+.workExperience h2 a:visited,
+.workExperience h2 a:active {
+  color: #eff3f1;
+  font-size: 30pt;
+  text-decoration: none;
+}
+
+.workExperience ol {
+  color: #eff3f1;
+  font-size: 20pt;
+  text-decoration: none;
+  padding: 0px 20px 0px 80px;
+}
+
+.workExperience ol a,
+.workExperience ol a:visited,
+.workExperience ol a:active {
+  color: #2b8aff;
+  font-size: 20pt;
+  text-decoration: none;
+  padding: 0px 20px 0px 80px;
+}
+
+.workExperience li {
+  margin: 20px 0;
+}
